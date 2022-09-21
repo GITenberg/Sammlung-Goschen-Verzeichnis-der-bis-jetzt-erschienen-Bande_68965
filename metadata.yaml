@@ -1,0 +1,24 @@
+_repo: Sammlung-Goschen-Verzeichnis-der-bis-jetzt-erschienen-Bande_68965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Göschen, Verlag
+    gutenberg_agent_id: '55030'
+    url: http://www.gutenberg.org/2009/agents/55030
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68965'
+language: de
+pgterms:marc905: 20220129083843gschen
+pgterms:marc906: '1913'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :J. G. Göschen'sche Verlagshandlung G. m. b. H,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sammlung Göschen: Verzeichnis der bis jetzt erschienen Bände'
+url: http://www.gutenberg.org/ebooks/68965
