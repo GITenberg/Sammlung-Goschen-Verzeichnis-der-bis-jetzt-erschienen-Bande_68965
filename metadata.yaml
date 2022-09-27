@@ -1,11 +1,16 @@
 _repo: Sammlung-Goschen-Verzeichnis-der-bis-jetzt-erschienen-Bande_68965
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68965-h/images/cover.jpg
 creator:
   author:
     agent_name: Göschen, Verlag
     gutenberg_agent_id: '55030'
     url: http://www.gutenberg.org/2009/agents/55030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68965#Sammlung-Goschen-Verzeichnis-der-bis-jetzt-erschienen-Bande
 gutenberg_issued: '2022-09-11'
 identifiers:
   gutenberg: '68965'
